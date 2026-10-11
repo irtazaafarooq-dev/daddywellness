@@ -18,7 +18,7 @@ to change the sound everywhere. If it fails to load, a synthesized SIUP is used 
 ## Site URL
 
 SEO tags, the sitemap and robots.txt read `NEXT_PUBLIC_SITE_URL`
-(defaults to https://daddywellness.vercel.app). Set it in Vercel when the domain changes.
+(defaults to https://daddywellness-three.vercel.app). Set it in Vercel when the domain changes.
 
 ## Contact form ("Connect with Richie" + brand enquiry form)
 

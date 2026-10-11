@@ -1,4 +1,4 @@
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://daddywellness.vercel.app').replace(/\/$/, '');
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://daddywellness-three.vercel.app').replace(/\/$/, '');
 
 export const PERSON = {
   name: 'Richie Lovelace',
